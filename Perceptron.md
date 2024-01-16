@@ -362,9 +362,3 @@ plt.show()
     
 ![png](Perceptron_files/Perceptron_32_1.png)
     
-
-
-## Sources
-- https://machinelearnia.com/
-- https://www.coursera.org/learn/machine-learning
-    

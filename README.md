@@ -24,6 +24,7 @@ This project implements a perceptron for binary classification. It loads a datas
 - `perceptron.ipynb`: The main Jupyter notebook containing code, comments, and explanatory plots.
 - `perceptron.py`: A Python file containing the perceptron implementation as a class.
 - `main.py`: An example demonstrating how to use the perceptron class in a main application.
+- `cost_evolution_plot.py`: Python script showing the evolution of the cost (located in the `demo/` directory).
 - `datasets/`: Folder containing the datasets (not included in the GitHub repository).
 
 ## Highlights
@@ -45,10 +46,3 @@ This project implements a perceptron for binary classification. It loads a datas
 - Explore and experiment with different datasets and model architectures.
 - Further optimize and extend the perceptron for more complex tasks.
 - Continue learning and applying machine learning principles.
-
-## Sources
-
-- [Machine Learnia](https://machinelearnia.com/): Resource used for learning key concepts.
-- Coursera Courses: Deepened knowledge in machine learning.
-
-Feel free to explore and experiment with different datasets and model architectures to enhance your machine learning skills. Great for attracting potential clients or recruiters interested in your understanding of fundamental ML concepts and hands-on implementation.
