@@ -30,7 +30,7 @@ This project implements a perceptron for binary classification. It loads a datas
 3. Navigate to the project directory:
 
     ```bash
-    cd linear_regression_from_scratch
+    cd ThePerceptron
     ```
 
 4. Run the `perceptron.ipynb` notebook in a Jupyter Notebook environment or any other Python environment or type:
