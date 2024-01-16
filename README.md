@@ -15,9 +15,28 @@ This project involves the implementation of a perceptron (neuron) from scratch u
 This project implements a perceptron for binary classification. It loads a dataset of images containing cats and other objects, normalizes the data, trains the perceptron, and evaluates its performance on a test set. The code is well-commented to explain each step of the process.
 
 ## How to Use
+1. Clone the repository:
 
-1. Ensure you have the required libraries installed (NumPy, Matplotlib, h5py).
-2. Run the `perceptron.ipynb` notebook in a Jupyter Notebook environment or any other Python environment.
+    ```bash
+    git clone https://github.com/SamiChabbi/ThePerceptron.git
+    ```
+
+2. Install the required dependencies using pip:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Navigate to the project directory:
+
+    ```bash
+    cd linear_regression_from_scratch
+    ```
+
+4. Run the `perceptron.ipynb` notebook in a Jupyter Notebook environment or any other Python environment or type:
+    ```bash
+    python3 main.py
+    ```
 
 ## Files
 
